@@ -1,0 +1,32 @@
+#title{
+    text-align:center;
+    font-size:5rem;
+}
+body{
+background-color: antiquewhite;
+}
+#rollButton{
+   
+   background-color:rgb(245, 229, 8);
+   border-color: rgb(255, 234, 0);
+   border-radius: 3rem;
+   width:8rem;
+   height:4rem;
+   color: aliceblue;
+   font-size: 1.4em;
+}
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  
+  .card-content {
+    background-color: rgb(237, 201, 93);
+    border: 1px solid #aa5151;
+    border-radius: 5px;
+    padding: 30px;
+    text-align: center;
+    font-size: 2rem;
+  }
